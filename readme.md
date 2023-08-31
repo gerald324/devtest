@@ -54,12 +54,12 @@ FizzBuzz
 
 ## Question 2: String Permutation with Wildcards
 
-Write a program that takes as input a string of indeterminate length consisting of the characters '0', '1', and/or '*'. The asterisk ('*') is a wildcard character that can represent either '0' or '1'.
+Write a program that takes as input a string of indeterminate length consisting of the characters '0', '1', and/or '\*'. The asterisk ('\*') is a wildcard character that can represent either '0' or '1'.
 
 ### Requirements
 
 1. Your program should be able to run from the command line and accept the input string as either a command-line argument or through standard input.
-2. The output should be printed to the standard output (console) and should consist of an array or list containing all possible permutations where the wildcard '*' can be replaced by either '0' or '1'.
+2. The output should be printed to the standard output (console) and should consist of an array or list containing all possible permutations where the wildcard '\*' can be replaced by either '0' or '1'.
 3. Consider edge cases such as an empty string or a string containing only wildcard characters.
 
 #### Example Input and Output

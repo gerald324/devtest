@@ -1,7 +1,5 @@
 def Reemplazo(linea):
     x = 0
-    #valor1 = linea
-    #valor2 = linea
     for i in linea:
         if i == "*":
             valor1 = linea[:x] + "0" + linea[x+1:]
